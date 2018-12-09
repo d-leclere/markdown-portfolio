@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### my first list :smile:
+
+* item 
+* another item with
+  * sub item as well
